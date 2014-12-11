@@ -5,3 +5,9 @@ This is a fork of [TinyXML](http://www.grinninglizard.com/tinyxml/) a simple, sm
 License
 -------
 TinyXML is provided as-is under the **ZLIB** license. See *readme.txt* for more information.
+
+
+Travis-CI build status
+-------
+
+![Alt text](https://travis-ci.org/paulsapps/TinyXML.svg)
